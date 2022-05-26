@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tim-Kurman
 - 👀 I’m interested in Data Science, Data Analytics and just overall green boy here in the vast expanse of knowledge.
 - 🌱 I’m currently learning Data Analytics in Python and Data Science on Dataquest.
-- 💞️ I’m looking to collaborate on whatever possible.
 - 📫 How to reach me: tkurmanguzhin@gmail.com
 
 <!---
