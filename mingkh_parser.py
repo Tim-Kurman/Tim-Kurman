@@ -1,4 +1,4 @@
-# importing moduls
+# importing modules
 # requests and bs4 are needed to find the correct page and elements on the page
 import requests
 from bs4 import BeautifulSoup
