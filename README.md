@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tim-Kurman
-- 👀 I’m interested in Data Science, Data Analytics and just overall green boy here in the vast expanse of knowledge.
+- 👀 I’m interested in Data Science, Data Analytics, Football and DnD.
 - 🌱 I’m currently learning Data Analytics in Python and Data Science on Dataquest.
+- You can check the projects in the repo "DQ Projects".
 - 📫 How to reach me: tkurmanguzhin@gmail.com
 
 <!---
